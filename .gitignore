@@ -1,0 +1,17 @@
+__pycache__
+step1.sh
+step2.sh
+step4.sh
+step6.sh
+steps.sh
+.DS_Store
+
+wdbs/
+apks/
+play/
+working/
+
+maps_research/
+maps-original/
+maps.zip
+maps-original.zip
